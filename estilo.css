@@ -19,9 +19,14 @@
 
 }
 
-.conteúdo-principal{
+.conteúdo-principal
+{
     display: flex;
     flex-direction: column;
     justify-content: column;
     align-items: center;
+}
+.titulo
+{
+background-color: grey;
 }
