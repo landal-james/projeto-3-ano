@@ -34,8 +34,7 @@ text-align: center;
 }
 
 .urna{
-    display: flex;
-    justify-content: center;
+    align-items: center;
 }
 .subtitulo
 {
