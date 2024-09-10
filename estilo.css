@@ -28,13 +28,13 @@
 }
 .titulo
 {
-background-color: grey;
+background-color: rgb(173, 255, 162);
 width: 100%;
 text-align: center;
 }
 .subtitulo
 {
-background-color: grey;
+background-color: rgb(160, 225, 255);
 width: 100%;
 text-align: center;
 height: 20px;
