@@ -35,7 +35,7 @@ text-align: center;
 
 .urna{
     display: flex;
-    text-align: center;
+    justify-content: center;
 }
 .subtitulo
 {
