@@ -32,6 +32,11 @@ background-color: rgb(173, 255, 162);
 width: 100%;
 text-align: center;
 }
+
+.urna{
+    display: flex;
+    text-align: center;
+}
 .subtitulo
 {
 background-color: rgb(160, 225, 255);
